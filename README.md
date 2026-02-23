@@ -28,7 +28,7 @@ This project demonstrates a containerized application deployed using **Docker Co
 
 ## 🌐 Application Running
 
-![App Running](screenshots/application-running.png)
+![App Running](screenshots/application-running .png)
 
 ---
 
@@ -40,7 +40,7 @@ This project demonstrates a containerized application deployed using **Docker Co
 
 ## ✅ App Still Working (Load Balancing Proof)
 
-![Still Working](screenshots/app-still-working%20\(2\).png)
+![Still Working](screenshots/app-still-working.png)
 
 ---
 
