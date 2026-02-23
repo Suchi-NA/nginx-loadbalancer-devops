@@ -28,13 +28,13 @@ This project demonstrates a containerized application deployed using **Docker Co
 
 ## 🌐 Application Running
 
-![App Running](screenshots/application-running .png)
+![App Running](screenshots/application-running.png)
 
 ---
 
 ## ❌ Backend Stopped Test
 
-![Backend Stopped](screenshots/backend-stopped.png)
+![Backend Stopped](screenshots/backand-stopped.png)
 
 ---
 
